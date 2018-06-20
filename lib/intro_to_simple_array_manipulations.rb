@@ -13,3 +13,7 @@ end
 def pop_with_args
   jdskjfsd
 end
+
+def using_shift
+  jdskjfsd
+end
