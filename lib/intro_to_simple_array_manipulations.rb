@@ -18,6 +18,6 @@ def using_shift
   jdskjfsd
 end
 
-def using_shift
+def shift_with_args
   jdskjfsd
 end
