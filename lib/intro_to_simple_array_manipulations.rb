@@ -33,3 +33,7 @@ end
 def using_uniq
   #jdskjfsd
 end
+
+def using_flatten
+  #jdskjfsd
+end
