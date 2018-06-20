@@ -42,6 +42,6 @@ def using_delete (array, string)
   #jdskjfsd
 end
 
-def using_delete_at
+def using_delete_at (array, integer)
   #jdskjfsd
 end
