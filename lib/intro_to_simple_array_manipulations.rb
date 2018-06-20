@@ -42,6 +42,6 @@ def using_delete
   #jdskjfsd
 end
 
-def using_delete
+def using_delete_at
   #jdskjfsd
 end
