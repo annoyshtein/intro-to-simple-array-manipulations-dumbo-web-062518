@@ -25,3 +25,7 @@ end
 def using_concat
   #jdskjfsd
 end
+
+def using_insert
+  #jdskjfsd
+end
