@@ -10,6 +10,6 @@ def using_pop
   jdskjfsd
 end
 
-def using_pop
+def pop_with_args
   jdskjfsd
 end
