@@ -17,3 +17,7 @@ end
 def using_shift
   jdskjfsd
 end
+
+def using_shift
+  jdskjfsd
+end
