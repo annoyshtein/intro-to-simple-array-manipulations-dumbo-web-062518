@@ -1,27 +1,27 @@
 def using_push
-  jdskjfsd
+  #jdskjfsd
 end
 
 def using_unshift
-  jdskjfsd
+  #jdskjfsd
 end
 
 def using_pop
-  jdskjfsd
+  #jdskjfsd
 end
 
 def pop_with_args
-  jdskjfsd
+  #jdskjfsd
 end
 
 def using_shift
-  jdskjfsd
+  #jdskjfsd
 end
 
 def shift_with_args
-  jdskjfsd
+  #jdskjfsd
 end
 
 def using_concat
-  //jdskjfsd
+  #jdskjfsd
 end
