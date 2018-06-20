@@ -38,7 +38,7 @@ def using_flatten (array)
   #jdskjfsd
 end
 
-def using_delete
+def using_delete ()
   #jdskjfsd
 end
 
