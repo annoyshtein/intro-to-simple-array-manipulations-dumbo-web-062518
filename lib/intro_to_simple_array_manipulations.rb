@@ -1,28 +1,28 @@
-def using_push
+def using_push (array, string)
   #jdskjfsd
 end
 
-def using_unshift
+def using_unshift (array, string)
   #jdskjfsd
 end
 
-def using_pop
+def using_pop (array)
   #jdskjfsd
 end
 
-def pop_with_args
+def pop_with_args (array)
   #jdskjfsd
 end
 
-def using_shift
+def using_shift (array)
   #jdskjfsd
 end
 
-def shift_with_args
+def shift_with_args (array)
   #jdskjfsd
 end
 
-def using_concat
+def using_concat (first_array, second_array)
   #jdskjfsd
 end
 
