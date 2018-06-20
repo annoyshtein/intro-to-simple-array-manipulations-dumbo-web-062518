@@ -38,6 +38,6 @@ def using_flatten
   #jdskjfsd
 end
 
-def using_flatten
+def using_delete
   #jdskjfsd
 end
