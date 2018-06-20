@@ -9,3 +9,7 @@ end
 def using_pop
   jdskjfsd
 end
+
+def using_pop
+  jdskjfsd
+end
